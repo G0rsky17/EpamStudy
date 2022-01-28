@@ -12,8 +12,7 @@ public class Main {
         Coin coin2 = new Coin();
         coin2.setDiameter(0.21);
         coin2.setWeight(170);
-        CompareCoin compare = new CompareCoin();
-        compare.compareDiameter(coin1, coin2);
+
 
 
 
